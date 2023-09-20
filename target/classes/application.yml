@@ -1,0 +1,12 @@
+server:
+  port: 9090
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/bishe?severTimezone=GMT%2b8
+    username: root
+    password: 135037641
+  redis:
+    host: 127.0.0.1
+    port: 6379
