@@ -1,2 +1,19 @@
-# machine-learning
-本系统采用前后端分离的设计架构，通过使用SpringBoot框架实现后端服务，在前端使用Vue.js技术实现交互界面。系统主要功能包括：队员信息管理、参赛队伍管理、比赛成绩管理、队员训练数据分析和预测等。在数据分析方面，系统运用了机器学习算法对队员做题数据进行建模和预测，以提供更加精准的成绩预测和意见建议。本系统的设计与实现使得高校程序设计竞赛的管理和监控变得更加智能化和高效化，可以帮助管理员更好地了解比赛情况和参赛队伍的实力，同时也为参赛者提供了更加公正的竞赛环境。
+# vue
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
